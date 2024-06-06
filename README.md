@@ -1,1 +1,1 @@
-<b>GEMINI 1.5 Pro Project</b>
+<b>GEMINI Pro Project</b>
